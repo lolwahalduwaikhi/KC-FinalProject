@@ -2,8 +2,9 @@
 //  log in.swift
 //  Right Path
 //
-//  Created by Lulwah alduwaikhi on 03/09/2022.
+//  Created by Lulwah alduwaikhi on 04/09/2022.
 //
+
 
 import SwiftUI
 
@@ -83,6 +84,9 @@ struct log_in: View {
 
 struct log_in_Previews: PreviewProvider {
     static var previews: some View {
-        log_in()
+        Group {
+            log_in()
+          
+        }
     }
 }

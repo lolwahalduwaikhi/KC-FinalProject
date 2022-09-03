@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Right Path
 //
-//  Created by Lulwah alduwaikhi on 27/08/2022.
+//  Created by Lulwah alduwaikhi on 04/09/2022.
 //
 
 import SwiftUI
